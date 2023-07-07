@@ -5,7 +5,6 @@ It is a computational approach that mimics the process of natural evolution to f
 In a genetic algorithm, a population of candidate solutions, called individuals, is evolved over successive generations. Each individual represents a possible solution to the problem at hand and is encoded as a set of parameters or variables.
 
 For instance, let's consider the problem of finding the maximum value of a mathematical function f(x) = x^2 within a given range of x. We want to find the value of x that maximizes the function.
-
 To solve this problem using a genetic algorithm, we can define the following steps:
 
 Initialization: Create an initial population of individuals, where each individual represents a possible solution (a value of x). The individuals can be encoded as binary strings or real-valued vectors.
